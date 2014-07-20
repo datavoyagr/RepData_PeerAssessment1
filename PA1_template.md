@@ -75,7 +75,7 @@ To find the mean total number of steps taken per day, I used the *summaryBy* fun
  - The mean number of steps was 10766
  - The median for the number of steps was 10765
 
-Following the code below, you will find a histogram of the total number of steps taken each day
+Following the code below, you will find a histogram of the total number of steps taken each day.
 
 
 
